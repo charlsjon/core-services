@@ -2,6 +2,7 @@ backend:
   name: github
   repo: charlsjon/core-services
   branch: main
+  base_url: https://sveltia-cms-auth.charlsjonangeloerrazo.workers.dev/
 media_folder: "public/static/images/uploads"
 public_folder: "static/images/uploads"
 collections:
